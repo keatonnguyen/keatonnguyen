@@ -1,5 +1,12 @@
 # 💫 About Me:
-Hello!<br><br>I am a Computer Engineering student at Concordia University.<br><br>Trying to learn as much as I can on Automation & Embedded systems!<br><br>Feel free to connect with me on my socials
+Hello!
+<br>
+<br>
+I am a Computer Engineering student at Concordia University.
+<br>
+Trying to learn as much as I can on Automation & Embedded systems!
+<br>
+Feel free to connect with me on my socials
 
 
 # 🌐 Socials:
